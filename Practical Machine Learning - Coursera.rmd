@@ -1,7 +1,6 @@
 ---
 title: "Practical Machine Learning - Coursera"
-author: "Vidya Cuddalore Arivudainambi"
-date: "7 January 2017"
+
 output: html_document
 ---
 
